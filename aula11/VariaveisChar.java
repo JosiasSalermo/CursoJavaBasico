@@ -9,5 +9,9 @@ public class VariaveisChar {
 
         System.out.println("o + i");
         System.out.println("" + o + i);
+
+        char interrogacao = 0x3f;
+
+        System.out.println("" + o + i + interrogacao);
     }
 }
