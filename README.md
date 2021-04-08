@@ -7,7 +7,7 @@
 
 <br/>
 
-[x] 01. Introdução e Dicas para quem está começando
+[ x ] 01. Introdução e Dicas para quem está começando
 
 [x] 02. Instalando o Java no Windows 10
 
