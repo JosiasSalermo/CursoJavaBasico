@@ -4,10 +4,9 @@
 <a href="https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r">Curso Básico de Java da Loiane Groner</a>
 </h2>
 
-
 <br/>
 
-[ x ] 01. Introdução e Dicas para quem está começando
+[x] 01. Introdução e Dicas para quem está começando
 
 [x] 02. Instalando o Java no Windows 10
 
