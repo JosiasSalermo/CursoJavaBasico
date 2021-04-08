@@ -30,4 +30,6 @@
 
 [x] 12. Lendo dados do teclado usando a classe Scanner
 
+[x] 13. Operadores(Aritméticos, Lógicos e Relacionais)
+
 
