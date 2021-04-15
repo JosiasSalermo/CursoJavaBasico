@@ -1,9 +1,9 @@
 package aula11;
 
 public class VariaveisInteiras {
-
-    public static void main(String[] args){
-
+    
+    public static void main(String[] args) {
+        
         byte idade01 = 20;
         short idade02 = 21;
         int idade03 = 22;
