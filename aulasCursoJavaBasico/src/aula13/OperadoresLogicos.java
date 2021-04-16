@@ -10,6 +10,7 @@ public class OperadoresLogicos {
         System.out.println(verdadeiro && falso);
 
         System.out.println(verdadeiro || verdadeiro);
+        System.out.println(falso || falso);
         System.out.println(verdadeiro || falso);
 
         System.out.println(verdadeiro ^ verdadeiro);
@@ -18,5 +19,6 @@ public class OperadoresLogicos {
 
         System.out.println(!verdadeiro);
         System.out.println(!falso);
+
     }
 }
