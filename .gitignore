@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+*.code-workspace
 # Log file
 *.log
 
