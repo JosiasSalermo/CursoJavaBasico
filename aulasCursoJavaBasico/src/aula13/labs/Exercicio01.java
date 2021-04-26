@@ -1,12 +1,8 @@
-package aula13.labs;
-
 public class Exercicio01 {
-
+    
     public static void main(String[] args) {
-        
-        // Faça um Programa que mostre a mensagem 
-        // "Olá mundo" na tela.
+        // Faça um Programa que mostre a mensagem "Alo Mundo"
 
-        System.out.println("Olá Mundo!");
+        System.out.println("Alo Mundo!");
     }
 }
