@@ -1,10 +1,9 @@
 # Compiled class file
 *.class
 *.code-workspace
-*/.settings/
-*/.classpath/
-*/.gitignore/
-*/.project/
+*Aulas/.settings/
+*Aulas/.classpath/
+*Aulas/.project/
 # Log file
 *.log
 
