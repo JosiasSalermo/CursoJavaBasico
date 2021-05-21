@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 *.code-workspace
+*.settings
+*.classpath
+*.gitignore
+*.project
 # Log file
 *.log
 
