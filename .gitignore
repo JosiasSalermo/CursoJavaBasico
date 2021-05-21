@@ -1,9 +1,9 @@
 # Compiled class file
 *.class
 *.code-workspace
-*Aulas/.settings/
-*Aulas/.classpath/
-*Aulas/.project/
+*Aulas/.settings
+*Aulas/.classpath
+*Aulas/.project
 # Log file
 *.log
 
