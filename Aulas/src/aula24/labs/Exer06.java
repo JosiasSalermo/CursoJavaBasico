@@ -11,10 +11,9 @@ public class Exer06 {
 		contato1.email = "joao@email.com";
 		
 		contato1.telefones = new String[5];
-		contato1.telefones[0] = "9-9999-9999";
-		contato1.telefones[1] = "9-9999-9988";
-		contato1.telefones[2] = "9-9999-9977";
-
+		contato1.telefones[0] = "99999-9999";
+		contato1.telefones[1] = "99999-9988";
+		contato1.telefones[2] = "99999-9977";
 	}
 
 }
