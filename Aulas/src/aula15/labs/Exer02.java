@@ -1,9 +1,23 @@
 package aula15.labs;
 
-public class Exer02 {
+import java.util.Scanner;
+// Faça um Programa que peça um valor e mostre na tela se o 
+// valor é positivo ou negativo
 
+public class Exer02 {
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("Entre com um número:");
+		int num = scan.nextInt();
+		
+		if(num >=0) {
+			System.out.println("O número informado é positivo");
+		}else {
+			System.out.println("O número informado é negativo");
+		}
 
 	}
 
