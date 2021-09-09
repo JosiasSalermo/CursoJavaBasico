@@ -23,7 +23,7 @@ public class Exer21 {
 		
 		if(tipo.equalsIgnoreCase("a")) {
 			
-			if(liros <= 20) {
+			if(litros <= 20) {
 				percDesconto = 3;
 			}else {
 				percDesconto = 5;
